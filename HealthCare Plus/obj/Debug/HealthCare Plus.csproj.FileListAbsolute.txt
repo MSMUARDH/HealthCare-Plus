@@ -1,0 +1,95 @@
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.AdminDashboard.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.Consultation.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.DoctorRegistrationForm.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.DoctorSchedule.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.PatientRegistrationForm.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.Properties.Resources.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.Resource.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.Room.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare Plus.csproj.GenerateResource.cache
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare Plus.csproj.CoreCompileInputs.cache
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\HealthCare Plus.exe.config
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\HealthCare Plus.exe
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\HealthCare Plus.pdb
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare Plus.exe
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare Plus.pdb
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.RoomAllocations.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\dje-NE\HealthCare Plus.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\dje-NE\HealthCare Plus.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.BookingDoctor.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.LogIn.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.StaffDashBoard.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.PaymentHandling.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\EnvDTE.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\stdole.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\Microsoft.MSXML.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare Plus.csproj.CopyComplete
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.Reports.PrintInvoiceForm.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\RdlCompile.cache
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\RdlCompile.compiled
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.CheckDoctorAvailability.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.CheckDoctorAvailability.dje-NE.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.SearchDoctors.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.DoctorProfile.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.Reports.TotalIncomeForm.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare Plus.csproj.AssemblyReference.cache
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.UserRegistration.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.AppointmentReschedule.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.AppointmentManagment.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.ReportManagment.resources
+C:\Users\msmua\source\repos\HealthCare Plus\HealthCare Plus\obj\Debug\HealthCare_Plus.Reports.PatientsDetails.resources
